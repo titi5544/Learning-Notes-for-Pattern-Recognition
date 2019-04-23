@@ -1,0 +1,5 @@
+As showed in many reference books, esch model we build can be overfitted. 
+This work will show that what is overfitting and how can the model be overfitted. 
+Imaging that we want to fit a linear model as 'y = a*x+b+c', where a = 3 and b = 6, x and c follows some certain normal distributions. 
+As the sample number varies, the result of the model varies, too. 
+We will use different model and different sample numbers to built our model and compare them with each other. 
